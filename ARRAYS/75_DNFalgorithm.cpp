@@ -1,4 +1,5 @@
 /*sort them in place so that objects of the same color are adjacent-
+the array contains numbers 0,1,2 only representing three colors.
 leetcode problem 75.- DNF (Dutch National Flag) ALGORITHM */
 
 #include <iostream>
